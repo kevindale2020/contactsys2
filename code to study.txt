@@ -1,0 +1,54 @@
+1. show more and collapse
+can be seen in greencheck reports
+/home/bbb/greencheck/dev/html/templates/reports
+
+2. continue PHP OOP basics
+https://www.youtube.com/watch?v=ToomaGjgqBw&list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh&index=6
+
+3. Practice Algorithms
+https://www.w3resource.com/php-exercises/challenges/1/index.php
+https://www.softwaretestinghelp.com/coding-interview-questions/
+
+4. Interview Questions
+https://www.pongoresume.com/blogPosts/699/top-5-interview-questions.cfm
+
+5. Cake PHP Tips
+https://www.toptal.com/cakephp/most-common-cakephp-mistakes
+
+6. Set up token in ajax cake php
+https://onlinewebtutorblog.com/cakephp-4-how-to-add-csrf-token-to-ajax-request/
+
+7. https://book.cakephp.org/4/en/orm/query-builder.html
+
+AAW4MNIZ
+
+8. Sample many to many
+https://stackoverflow.com/questions/39950146/cakephp-3-x-saving-associated-data-across-multiple-tables
+
+9. Auth User with Relation
+https://stackoverflow.com/questions/9785551/getting-associated-models-with-this-auth-in-cakephp
+
+10. Auth with Association
+https://stackoverflow.com/questions/32661318/how-to-retrieve-associations-together-with-authenticated-user-data
+
+11. Roles Access
+https://stackoverflow.com/questions/40118473/cakephp-3-3-how-to-allow-access-different-user-roles-to-different-methods-in-c
+
+12. Has One
+https://codethepixel.com/articles/CakePHP-4-Insert-Save-Update-hasOne-Associative-Data
+https://book.cakephp.org/4/en/orm/saving-data.html
+
+13. how to install git bash inside sublime
+https://www.youtube.com/watch?v=d343ruZzzwU
+
+14. File Upload Cake PHP
+https://onlinewebtutorblog.com/cakephp-4-upload-image-with-form-data-tutorial/
+
+15. Migration Cake PHP
+https://www.youtube.com/watch?v=DRZgxxyxCAQ
+
+16. Change password
+https://stackoverflow.com/questions/2868665/is-there-a-better-way-to-change-user-password-in-cakephp-using-auth
+
+14. Tips for dealing with social anxiety/introversion
+https://www.bustle.com/p/31-unexpected-hacks-for-coping-with-social-anxiety-according-to-reddit-8487398
